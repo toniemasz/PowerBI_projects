@@ -9,4 +9,4 @@ Poniżej lista dostępnych projektów:
 
 1. **Sprzedaż w automacie do kawy**  
    - Opis: Analiza sprzedaży napojów w automacie  
-   - Plik: [Raport_kawa.pdf](PowerBI_pojects/Raport_kawa.pdf)
+   - Plik: [Raport_kawa.pdf](Raport_kawa.pdf)
