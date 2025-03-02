@@ -7,6 +7,6 @@ Tutaj będę zamieszczał wszystkie moje projekty zrobione w Power BI.
 
 Poniżej lista dostępnych projektów:
 
-1. **Dashboard sprzedaży**  
+1. **Sprzedaż w automacie do kawy**  
    - Opis: Analiza sprzedaży napojów w automacie  
-   - Plik: [kawa_raport.pdf](PowerBI_pojects/kawa_raport.pdf)
+   - Plik: [Raport_kawa.pdf](PowerBI_pojects/Raport_kawa.pdf)
